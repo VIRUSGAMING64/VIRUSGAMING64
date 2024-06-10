@@ -1,6 +1,6 @@
 # Introduction
 ![](https://github.com/VIRUSGAMING64/VIRUSGAMING64/blob/main/github-metrics.svg)
-👋 Hi I'm VIRUSGAMING, a **programmer** from Cuba, I'm 17 years old.
+
 
 ![](https://raw.githubusercontent.com/VIRUSGAMING64/github-stats/master/generated/overview.svg#gh-dark-mode-only) 
 ![](https://raw.githubusercontent.com/VIRUSGAMING64/github-stats/master/generated/languages.svg#gh-dark-mode-only)
