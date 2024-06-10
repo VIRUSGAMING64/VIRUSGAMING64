@@ -1,13 +1,10 @@
 # Introduction
 👋 Hi I'm VIRUSGAMING, a **programmer** from Cuba, I'm 17 years old.
 
-# Languages
-👀 I know Python, C++, C, Go, javascript, Pascal, and others
-
-![](https://raw.githubusercontent.com/VIRUSGAMING64/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/VIRUSGAMING64/github-stats/master/generated/overview.svg#gh-dark-mode-only) 
 ![](https://raw.githubusercontent.com/VIRUSGAMING64/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-
 ![](https://raw.githubusercontent.com/VIRUSGAMING64/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+[![skills](https://skillicons.dev/icons?i=cpp,c,py,js,go,java,flask,fastapi,bots,gmail,git,github,vscode,windows,linux,ubuntu&perline=6)](https://skillicons.dev)
 
 # 📫 Where to reach me
 - Telegram [VIRUSGAMING64](https://t.me/VIRUSGAMING64)
