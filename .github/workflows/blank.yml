@@ -35,5 +35,4 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
       - name: Metrics embed
-          uses: lowlighter/metrics@v3.34
-            
+        uses: lowlighter/metrics@v3.34          
