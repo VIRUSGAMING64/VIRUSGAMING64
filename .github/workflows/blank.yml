@@ -14,6 +14,8 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: generate-snake-game-from-github-contribution-grid
+        uses: Platane/snk@v3.3.0
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.TOKEN }}
