@@ -1,4 +1,5 @@
 # Introduction
+![](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 ![](https://github.com/VIRUSGAMING64/VIRUSGAMING64/blob/main/github-metrics.svg)
 
 ![](https://raw.githubusercontent.com/VIRUSGAMING64/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
