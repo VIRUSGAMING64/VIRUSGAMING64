@@ -48,23 +48,23 @@ This document provides detailed information about all repositories in the VIRUSG
 
 ---
 
-### 5. cf-stats
+### 5. virusgaming64.github.io
+**Repository:** [VIRUSGAMING64/virusgaming64.github.io](https://github.com/VIRUSGAMING64/virusgaming64.github.io)
+- **Language:** CSS
+- **Status:** Active
+- **Created:** August 17, 2025
+- **Last Updated:** November 22, 2025
+- **Description:** <div align="center"> **A dynamic GitHub portfolio showcasing projects, statistics, and coding journey**
+
+---
+
+### 6. cf-stats
 **Repository:** [VIRUSGAMING64/cf-stats](https://github.com/VIRUSGAMING64/cf-stats)
 - **Language:** Python
 - **Status:** Active
 - **Created:** March 31, 2024
 - **Last Updated:** November 22, 2025
 - **Description:** <a href="https://github.com/sudiptob2/cf-stats"> <img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
-
----
-
-### 6. virusgaming64.github.io
-**Repository:** [VIRUSGAMING64/virusgaming64.github.io](https://github.com/VIRUSGAMING64/virusgaming64.github.io)
-- **Language:** CSS
-- **Status:** Active
-- **Created:** August 17, 2025
-- **Last Updated:** November 21, 2025
-- **Description:** <div align="center"> **A dynamic GitHub portfolio showcasing projects, statistics, and coding journey**
 
 ---
 

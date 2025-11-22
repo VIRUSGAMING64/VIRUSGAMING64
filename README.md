@@ -30,6 +30,7 @@ I'm a passionate developer and competitive programmer with expertise in multiple
 
 
 
+
 ## 🚀 My Projects
 
 ### Featured Repositories
@@ -46,11 +47,11 @@ I'm a passionate developer and competitive programmer with expertise in multiple
 #### ⚡ [dinamic-events](https://github.com/VIRUSGAMING64/dinamic-events) ⭐ 1
 **Python** | No description available
 
-#### 📊 [cf-stats](https://github.com/VIRUSGAMING64/cf-stats)
-**Python** | No description available
-
 #### 🌐 [virusgaming64.github.io](https://github.com/VIRUSGAMING64/virusgaming64.github.io)
 **CSS** | No description available
+
+#### 📊 [cf-stats](https://github.com/VIRUSGAMING64/cf-stats)
+**Python** | No description available
 
 #### 🎓 [final2012c-](https://github.com/VIRUSGAMING64/final2012c-)
 **C#** | No description available
