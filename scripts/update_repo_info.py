@@ -43,7 +43,7 @@ def get_user_repos() -> List[Dict]:
         
         try:
             response = requests.get(url, headers=get_headers(), params=params, timeout=30)
-        except Exception as e:
+        except (requests.RequestException, requests.ConnectionError) as e:
             print(f"Error making request: {e}")
             break
         
@@ -107,12 +107,33 @@ def extract_description_from_readme(readme_content: Optional[str]) -> str:
     
     return ' '.join(description_lines) if description_lines else "No description available"
 
+def get_repo_emoji(name: str) -> str:
+    """Get appropriate emoji icon for repository based on name."""
+    name_lower = name.lower()
+    
+    if 'shell' in name_lower:
+        return '🐚'
+    elif 'bot' in name_lower or 'telegram' in name_lower:
+        return '📱'
+    elif 'event' in name_lower:
+        return '⚡'
+    elif 'zip' in name_lower or '7z' in name_lower:
+        return '📦'
+    elif 'web' in name_lower or '.io' in name:
+        return '🌐'
+    elif 'stat' in name_lower or 'monitor' in name_lower:
+        return '📊'
+    elif 'final' in name_lower or 'c-' in name_lower:
+        return '🎓'
+    else:
+        return '🔧'
+
 def format_date(date_str: str) -> str:
     """Format ISO date to readable format."""
     try:
         date = datetime.fromisoformat(date_str.replace('Z', '+00:00'))
         return date.strftime('%B %d, %Y')
-    except:
+    except (ValueError, TypeError) as e:
         return date_str
 
 def generate_repositories_md(repos: List[Dict]) -> str:
@@ -212,7 +233,7 @@ def update_main_readme(repos: List[Dict]):
         
         stars_str = f" ⭐ {stars}" if stars > 0 else ""
         
-        repos_section.append(f"\n#### {'🐚' if 'shell' in name.lower() else '📱' if 'bot' in name.lower() or 'telegram' in name.lower() else '⚡' if 'event' in name.lower() else '📦' if 'zip' in name.lower() or '7z' in name.lower() else '🌐' if 'web' in name.lower() or '.io' in name else '📊' if 'stat' in name.lower() or 'monitor' in name.lower() else '🎓' if 'final' in name.lower() or 'c-' in name.lower() else '🔧'} [{name}]({html_url}){stars_str}\n")
+        repos_section.append(f"\n#### {get_repo_emoji(name)} [{name}]({html_url}){stars_str}\n")
         if language:
             repos_section.append(f"**{language}** | ")
         repos_section.append(f"{description or 'No description available'}\n")
