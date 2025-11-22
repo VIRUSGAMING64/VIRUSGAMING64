@@ -125,7 +125,7 @@ This document provides detailed information about all repositories in the VIRUSG
 - **Status:** Active
 - **Created:** November 15, 2025
 - **Last Updated:** November 15, 2025
-- **Description:** Una aplicación web para saber cuánto internet ha usado por separado cada programa en Linux.
+- **Description:** Web application to track internet usage by program on Linux.
 
 **Features:**
 - Real-time network monitoring
@@ -167,7 +167,6 @@ This document provides detailed information about all repositories in the VIRUSG
 ### 🤖 Bots & Automation
 - MPTB_vhsell
 - 7zbot
-- vshell
 
 ### 🌐 Web Development
 - virusgaming64.github.io

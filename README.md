@@ -64,7 +64,7 @@ I'm a passionate developer and competitive programmer with expertise in multiple
 
 #### 📊 [NetworkUsageMonitor](https://github.com/VIRUSGAMING64/NetworkUsageMonitor)
 **Web Application** | Network usage monitoring app for Linux
-- Una aplicación web para saber cuánto internet ha usado por separado cada programa en Linux
+- Web application to track internet usage by program on Linux
 - Real-time network monitoring
 - Per-application tracking
 

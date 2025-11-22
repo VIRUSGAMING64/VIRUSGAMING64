@@ -36,7 +36,7 @@ docs/
 
 ## 📊 Repository Categories
 
-- **🤖 Bots & Automation**: MPTB_vhsell, 7zbot, vshell
+- **🤖 Bots & Automation**: MPTB_vhsell, 7zbot
 - **🌐 Web Development**: virusgaming64.github.io, NetworkUsageMonitor
 - **📚 Educational**: final2012c-
 - **📊 Analytics**: cf-stats, VIRUSGAMING64
