@@ -28,57 +28,37 @@ I'm a passionate developer and competitive programmer with expertise in multiple
 
 ---
 
+
 ## 🚀 My Projects
 
 ### Featured Repositories
 
 #### 🐚 [vshell](https://github.com/VIRUSGAMING64/vshell) ⭐ 7
-**Python** | A powerful shell tool for enhanced command-line operations
-- Advanced shell functionality
-- Python-based implementation
-- Active development since September 2025
+**Python** | No description available
 
-#### 📱 [MPTB_vhsell](https://github.com/VIRUSGAMING64/MPTB_vhsell) ⭐ 2
-**Python** | A new modular python-telegram-bot version of vshell
-- Modular architecture
-- Telegram bot integration
-- Modern Python implementation
+#### 🔧 [MPTB_vhsell](https://github.com/VIRUSGAMING64/MPTB_vhsell) ⭐ 2
+**Python** | Is an new modular python-telegram-bot version of vshell
+
+#### 🔧 [VIRUSGAMING64](https://github.com/VIRUSGAMING64/VIRUSGAMING64) ⭐ 1
+**Python** | No description available
 
 #### ⚡ [dinamic-events](https://github.com/VIRUSGAMING64/dinamic-events) ⭐ 1
-**Python** | Dynamic event handling system
-- Event-driven architecture
-- Python-based solution
-- Flexible and extensible
+**Python** | No description available
 
-#### 📦 [7zbot](https://github.com/VIRUSGAMING64/7zbot)
-**Bot** | Bot for working with ZIP archives
-- Archive manipulation via bot
-- Telegram integration
-- Compression utilities
+#### 📊 [cf-stats](https://github.com/VIRUSGAMING64/cf-stats)
+**Python** | No description available
 
 #### 🌐 [virusgaming64.github.io](https://github.com/VIRUSGAMING64/virusgaming64.github.io)
-**CSS/HTML** | Personal website and portfolio
-- GitHub Pages hosted
-- Custom styling
-- Portfolio showcase
-
-#### 📊 [NetworkUsageMonitor](https://github.com/VIRUSGAMING64/NetworkUsageMonitor)
-**Web Application** | Network usage monitoring app for Linux
-- Web application to track internet usage by program on Linux
-- Real-time network monitoring
-- Per-application tracking
+**CSS** | No description available
 
 #### 🎓 [final2012c-](https://github.com/VIRUSGAMING64/final2012c-)
-**C#** | Educational programming project
-- C# implementation
-- Problem-solving focus
-- Academic exercises
+**C#** | No description available
 
-#### 📈 [cf-stats](https://github.com/VIRUSGAMING64/cf-stats)
-**Python** | Codeforces statistics generator
-- Competitive programming stats
-- Automated SVG generation
-- GitHub Actions integration
+#### 📊 [NetworkUsageMonitor](https://github.com/VIRUSGAMING64/NetworkUsageMonitor)
+Una aplicacion web para saber cuanto internet a usado por separado cada programa en linux
+
+#### 📱 [7zbot](https://github.com/VIRUSGAMING64/7zbot)
+bot for work with zips
 
 ---
 
