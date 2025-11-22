@@ -47,7 +47,6 @@ docs/
 | Platform | Link |
 |----------|------|
 | Telegram | [@VIRUSGAMING64](https://t.me/VIRUSGAMING64) |
-| WhatsApp | [+5356563068](https://wa.me/+5356563068) |
 | Email | [virusroger6@gmail.com](mailto:virusroger6@gmail.com) |
 | Codeforces | [VIRUSGAMING](https://codeforces.com/profile/VIRUSGAMING) |
 
