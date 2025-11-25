@@ -87,6 +87,7 @@ bot for work with zips
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VIRUSGAMING64&show_icons=true&theme=github_dark&count_private=true)
 
+[![roadmap.sh](https://roadmap.sh/card/wide/683acc5fd3156c8eaf28c392?variant=dark)](https://roadmap.sh)
 </div>
 
 ---
