@@ -26,25 +26,25 @@ This document provides detailed information about all repositories in the VIRUSG
 
 ---
 
-### 3. VIRUSGAMING64
-**Repository:** [VIRUSGAMING64/VIRUSGAMING64](https://github.com/VIRUSGAMING64/VIRUSGAMING64)
-- **Language:** Python
-- **Stars:** ⭐ 1
-- **Status:** Active
-- **Created:** March 31, 2024
-- **Last Updated:** November 23, 2025
-- **Description:** <div align="center"> </div>
-
----
-
-### 4. dinamic-events
+### 3. dinamic-events
 **Repository:** [VIRUSGAMING64/dinamic-events](https://github.com/VIRUSGAMING64/dinamic-events)
 - **Language:** Python
 - **Stars:** ⭐ 1
 - **Status:** Active
 - **Created:** October 03, 2025
-- **Last Updated:** November 21, 2025
-- **Description:** > Planificador dinámico de tareas y recursos. Crea eventos, reserva CPU/GPU/RAM y detecta colisiones antes de que sucedan. - [Visión general](#-visión-general)
+- **Last Updated:** November 24, 2025
+- **Description:** first programing project UH 
+
+---
+
+### 4. VIRUSGAMING64
+**Repository:** [VIRUSGAMING64/VIRUSGAMING64](https://github.com/VIRUSGAMING64/VIRUSGAMING64)
+- **Language:** Python
+- **Stars:** ⭐ 1
+- **Status:** Active
+- **Created:** March 31, 2024
+- **Last Updated:** November 24, 2025
+- **Description:** <div align="center"> </div>
 
 ---
 
@@ -53,7 +53,7 @@ This document provides detailed information about all repositories in the VIRUSG
 - **Language:** CSS
 - **Status:** Active
 - **Created:** August 17, 2025
-- **Last Updated:** November 23, 2025
+- **Last Updated:** November 24, 2025
 - **Description:** <div align="center"> **A dynamic GitHub portfolio showcasing projects, statistics, and coding journey**
 
 ---
@@ -106,4 +106,4 @@ This document provides detailed information about all repositories in the VIRUSG
 
 ---
 
-*Last updated: November 24, 2025*
+*Last updated: November 25, 2025*
