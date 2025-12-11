@@ -15,36 +15,36 @@ This document provides detailed information about all repositories in the VIRUSG
 
 ---
 
-### 2. MPTB_vshell
+### 2. Jamazon
+**Repository:** [VIRUSGAMING64/Jamazon](https://github.com/VIRUSGAMING64/Jamazon)
+- **Language:** Python
+- **Stars:** ⭐ 4
+- **Status:** Active
+- **Created:** October 03, 2025
+- **Last Updated:** December 10, 2025
+- **Description:** first programing project UH 
+
+---
+
+### 3. MPTB_vshell
 **Repository:** [VIRUSGAMING64/MPTB_vshell](https://github.com/VIRUSGAMING64/MPTB_vshell)
 - **Language:** Python
 - **Stars:** ⭐ 2
 - **Status:** Active
 - **Created:** November 02, 2025
-- **Last Updated:** December 02, 2025
+- **Last Updated:** December 11, 2025
 - **Description:** Is an new modular python-telegram-bot version of vshell
 
 ---
 
-### 3. VIRUSGAMING64
+### 4. VIRUSGAMING64
 **Repository:** [VIRUSGAMING64/VIRUSGAMING64](https://github.com/VIRUSGAMING64/VIRUSGAMING64)
 - **Language:** Python
 - **Stars:** ⭐ 1
 - **Status:** Active
 - **Created:** March 31, 2024
-- **Last Updated:** December 09, 2025
+- **Last Updated:** December 10, 2025
 - **Description:** <div align="center"> </div>
-
----
-
-### 4. Jamazon
-**Repository:** [VIRUSGAMING64/Jamazon](https://github.com/VIRUSGAMING64/Jamazon)
-- **Language:** Python
-- **Stars:** ⭐ 1
-- **Status:** Active
-- **Created:** October 03, 2025
-- **Last Updated:** December 07, 2025
-- **Description:** first programing project UH 
 
 ---
 
@@ -53,7 +53,7 @@ This document provides detailed information about all repositories in the VIRUSG
 - **Language:** CSS
 - **Status:** Active
 - **Created:** August 17, 2025
-- **Last Updated:** December 09, 2025
+- **Last Updated:** December 10, 2025
 - **Description:** <div align="center"> **A dynamic GitHub portfolio showcasing projects, statistics, and coding journey**
 
 ---
@@ -100,10 +100,10 @@ This document provides detailed information about all repositories in the VIRUSG
 ## 📊 Statistics Summary
 
 - **Total Repositories:** 9
-- **Total Stars:** 11
+- **Total Stars:** 14
 - **Primary Languages:** C#, CSS, Python
 - **Most Starred:** vshell (7 stars)
 
 ---
 
-*Last updated: December 10, 2025*
+*Last updated: December 11, 2025*
