@@ -51,6 +51,7 @@ I'm a passionate developer and competitive programmer with expertise in multiple
 
 
 
+
 ## 🚀 My Projects
 
 ### Featured Repositories
@@ -58,7 +59,7 @@ I'm a passionate developer and competitive programmer with expertise in multiple
 #### 🐚 [vshell](https://github.com/VIRUSGAMING64/vshell) ⭐ 7
 **Python** | No description available
 
-#### 🔧 [Jamazon](https://github.com/VIRUSGAMING64/Jamazon) ⭐ 4
+#### 🔧 [Jamazon](https://github.com/VIRUSGAMING64/Jamazon) ⭐ 5
 **Python** | first programing project UH 
 
 #### 🐚 [MPTB_vshell](https://github.com/VIRUSGAMING64/MPTB_vshell) ⭐ 2

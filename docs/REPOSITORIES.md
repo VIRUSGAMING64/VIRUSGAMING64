@@ -18,10 +18,10 @@ This document provides detailed information about all repositories in the VIRUSG
 ### 2. Jamazon
 **Repository:** [VIRUSGAMING64/Jamazon](https://github.com/VIRUSGAMING64/Jamazon)
 - **Language:** Python
-- **Stars:** ⭐ 4
+- **Stars:** ⭐ 5
 - **Status:** Active
 - **Created:** October 03, 2025
-- **Last Updated:** December 10, 2025
+- **Last Updated:** December 11, 2025
 - **Description:** first programing project UH 
 
 ---
@@ -43,7 +43,7 @@ This document provides detailed information about all repositories in the VIRUSG
 - **Stars:** ⭐ 1
 - **Status:** Active
 - **Created:** March 31, 2024
-- **Last Updated:** December 10, 2025
+- **Last Updated:** December 11, 2025
 - **Description:** <div align="center"> </div>
 
 ---
@@ -53,7 +53,7 @@ This document provides detailed information about all repositories in the VIRUSG
 - **Language:** CSS
 - **Status:** Active
 - **Created:** August 17, 2025
-- **Last Updated:** December 10, 2025
+- **Last Updated:** December 11, 2025
 - **Description:** <div align="center"> **A dynamic GitHub portfolio showcasing projects, statistics, and coding journey**
 
 ---
@@ -100,10 +100,10 @@ This document provides detailed information about all repositories in the VIRUSG
 ## 📊 Statistics Summary
 
 - **Total Repositories:** 9
-- **Total Stars:** 14
+- **Total Stars:** 15
 - **Primary Languages:** C#, CSS, Python
 - **Most Starred:** vshell (7 stars)
 
 ---
 
-*Last updated: December 11, 2025*
+*Last updated: December 12, 2025*
