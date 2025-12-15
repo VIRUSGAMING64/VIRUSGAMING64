@@ -7,10 +7,10 @@ This document provides detailed information about all repositories in the VIRUSG
 ### 1. vshell
 **Repository:** [VIRUSGAMING64/vshell](https://github.com/VIRUSGAMING64/vshell)
 - **Language:** Python
-- **Stars:** ⭐ 7
+- **Stars:** ⭐ 8
 - **Status:** Active
 - **Created:** September 06, 2025
-- **Last Updated:** November 02, 2025
+- **Last Updated:** December 14, 2025
 - **Description:** Proyecto modular en Python que combina un núcleo de automatización (bot) y un componente web, con utilidades para descargas, compresión y gestión de usuarios. Este README documenta la estructura del proyecto, los módulos disponibles y cómo ponerlo en marcha. > ℹ️ Nota: Este documento se ha generado a partir de la estructura actual del repositorio. Si tu flujo real de trabajo difiere (por ejemplo, variables de entorno, comandos o servicios específicos), ajústalo en la sección Configuración.
 
 ---
@@ -21,7 +21,7 @@ This document provides detailed information about all repositories in the VIRUSG
 - **Stars:** ⭐ 6
 - **Status:** Active
 - **Created:** October 03, 2025
-- **Last Updated:** December 12, 2025
+- **Last Updated:** December 14, 2025
 - **Description:** first programing project UH 
 
 ---
@@ -29,32 +29,33 @@ This document provides detailed information about all repositories in the VIRUSG
 ### 3. MPTB_vshell
 **Repository:** [VIRUSGAMING64/MPTB_vshell](https://github.com/VIRUSGAMING64/MPTB_vshell)
 - **Language:** Python
-- **Stars:** ⭐ 2
+- **Stars:** ⭐ 3
 - **Status:** Active
 - **Created:** November 02, 2025
-- **Last Updated:** December 11, 2025
+- **Last Updated:** December 14, 2025
 - **Description:** Is an new modular python-telegram-bot version of vshell
 
 ---
 
-### 4. VIRUSGAMING64
+### 4. virusgaming64.github.io
+**Repository:** [VIRUSGAMING64/virusgaming64.github.io](https://github.com/VIRUSGAMING64/virusgaming64.github.io)
+- **Language:** CSS
+- **Stars:** ⭐ 1
+- **Status:** Active
+- **Created:** August 17, 2025
+- **Last Updated:** December 14, 2025
+- **Description:** <div align="center"> **A dynamic GitHub portfolio showcasing projects, statistics, and coding journey**
+
+---
+
+### 5. VIRUSGAMING64
 **Repository:** [VIRUSGAMING64/VIRUSGAMING64](https://github.com/VIRUSGAMING64/VIRUSGAMING64)
 - **Language:** Python
 - **Stars:** ⭐ 1
 - **Status:** Active
 - **Created:** March 31, 2024
-- **Last Updated:** December 13, 2025
+- **Last Updated:** December 14, 2025
 - **Description:** <div align="center"> </div>
-
----
-
-### 5. virusgaming64.github.io
-**Repository:** [VIRUSGAMING64/virusgaming64.github.io](https://github.com/VIRUSGAMING64/virusgaming64.github.io)
-- **Language:** CSS
-- **Status:** Active
-- **Created:** August 17, 2025
-- **Last Updated:** December 13, 2025
-- **Description:** <div align="center"> **A dynamic GitHub portfolio showcasing projects, statistics, and coding journey**
 
 ---
 
@@ -100,10 +101,10 @@ This document provides detailed information about all repositories in the VIRUSG
 ## 📊 Statistics Summary
 
 - **Total Repositories:** 9
-- **Total Stars:** 16
+- **Total Stars:** 19
 - **Primary Languages:** C#, CSS, Python
-- **Most Starred:** vshell (7 stars)
+- **Most Starred:** vshell (8 stars)
 
 ---
 
-*Last updated: December 14, 2025*
+*Last updated: December 15, 2025*
