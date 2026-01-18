@@ -88,15 +88,16 @@ I'm a passionate developer and competitive programmer with expertise in multiple
 
 
 
+
 ## 🚀 My Projects
 
 ### Featured Repositories
 
+#### 🔧 [Jamazon](https://github.com/VIRUSGAMING64/Jamazon) ⭐ 8
+**Python** | first programing project UH 
+
 #### 🐚 [vshell](https://github.com/VIRUSGAMING64/vshell) ⭐ 8
 **Python** | No description available
-
-#### 🔧 [Jamazon](https://github.com/VIRUSGAMING64/Jamazon) ⭐ 7
-**Python** | first programing project UH 
 
 #### 🐚 [MPTB_vshell](https://github.com/VIRUSGAMING64/MPTB_vshell) ⭐ 3
 **Python** | Is an new modular python-telegram-bot version of vshell

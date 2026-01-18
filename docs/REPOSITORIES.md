@@ -4,7 +4,18 @@ This document provides detailed information about all repositories in the VIRUSG
 
 ## 🌟 Active Projects
 
-### 1. vshell
+### 1. Jamazon
+**Repository:** [VIRUSGAMING64/Jamazon](https://github.com/VIRUSGAMING64/Jamazon)
+- **Language:** Python
+- **Stars:** ⭐ 8
+- **Status:** Active
+- **Created:** October 03, 2025
+- **Last Updated:** January 17, 2026
+- **Description:** first programing project UH 
+
+---
+
+### 2. vshell
 **Repository:** [VIRUSGAMING64/vshell](https://github.com/VIRUSGAMING64/vshell)
 - **Language:** Python
 - **Stars:** ⭐ 8
@@ -15,24 +26,13 @@ This document provides detailed information about all repositories in the VIRUSG
 
 ---
 
-### 2. Jamazon
-**Repository:** [VIRUSGAMING64/Jamazon](https://github.com/VIRUSGAMING64/Jamazon)
-- **Language:** Python
-- **Stars:** ⭐ 7
-- **Status:** Active
-- **Created:** October 03, 2025
-- **Last Updated:** December 22, 2025
-- **Description:** first programing project UH 
-
----
-
 ### 3. MPTB_vshell
 **Repository:** [VIRUSGAMING64/MPTB_vshell](https://github.com/VIRUSGAMING64/MPTB_vshell)
 - **Language:** Python
 - **Stars:** ⭐ 3
 - **Status:** Active
 - **Created:** November 02, 2025
-- **Last Updated:** January 16, 2026
+- **Last Updated:** January 17, 2026
 - **Description:** Is an new modular python-telegram-bot version of vshell
 
 ---
@@ -43,7 +43,7 @@ This document provides detailed information about all repositories in the VIRUSG
 - **Stars:** ⭐ 1
 - **Status:** Active
 - **Created:** August 17, 2025
-- **Last Updated:** January 16, 2026
+- **Last Updated:** January 17, 2026
 - **Description:** <div align="center"> **A dynamic GitHub portfolio showcasing projects, statistics, and coding journey**
 
 ---
@@ -54,7 +54,7 @@ This document provides detailed information about all repositories in the VIRUSG
 - **Stars:** ⭐ 1
 - **Status:** Active
 - **Created:** March 31, 2024
-- **Last Updated:** January 16, 2026
+- **Last Updated:** January 17, 2026
 - **Description:** <div align="center"> </div>
 
 ---
@@ -101,10 +101,10 @@ This document provides detailed information about all repositories in the VIRUSG
 ## 📊 Statistics Summary
 
 - **Total Repositories:** 9
-- **Total Stars:** 20
+- **Total Stars:** 21
 - **Primary Languages:** C#, CSS, Python
-- **Most Starred:** vshell (8 stars)
+- **Most Starred:** Jamazon (8 stars)
 
 ---
 
-*Last updated: January 17, 2026*
+*Last updated: January 18, 2026*
