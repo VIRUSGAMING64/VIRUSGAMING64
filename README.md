@@ -106,11 +106,12 @@ I'm a passionate developer and competitive programmer with expertise in multiple
 
 
 
+
 ## 🚀 My Projects
 
 ### Featured Repositories
 
-#### 🔧 [Jamazon](https://github.com/VIRUSGAMING64/Jamazon) ⭐ 9
+#### 🔧 [Jamazon](https://github.com/VIRUSGAMING64/Jamazon) ⭐ 10
 **Python** | first programing project UH 
 
 #### 🐚 [vshell](https://github.com/VIRUSGAMING64/vshell) ⭐ 8
