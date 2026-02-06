@@ -107,6 +107,7 @@ I'm a passionate developer and competitive programmer with expertise in multiple
 
 
 
+
 ## 🚀 My Projects
 
 ### Featured Repositories
@@ -131,12 +132,6 @@ I'm a passionate developer and competitive programmer with expertise in multiple
 
 #### 🎓 [final2012c-](https://github.com/VIRUSGAMING64/final2012c-)
 **C#** | No description available
-
-#### 📊 [NetworkUsageMonitor](https://github.com/VIRUSGAMING64/NetworkUsageMonitor)
-Una aplicacion web para saber cuanto internet a usado por separado cada programa en linux
-
-#### 📱 [7zbot](https://github.com/VIRUSGAMING64/7zbot)
-bot for work with zips
 
 ---
 

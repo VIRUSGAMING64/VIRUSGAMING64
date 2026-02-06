@@ -43,7 +43,7 @@ This document provides detailed information about all repositories in the VIRUSG
 - **Stars:** ⭐ 1
 - **Status:** Active
 - **Created:** August 17, 2025
-- **Last Updated:** February 04, 2026
+- **Last Updated:** February 05, 2026
 - **Description:** <div align="center"> **A dynamic GitHub portfolio showcasing projects, statistics, and coding journey**
 
 ---
@@ -54,7 +54,7 @@ This document provides detailed information about all repositories in the VIRUSG
 - **Stars:** ⭐ 1
 - **Status:** Active
 - **Created:** March 31, 2024
-- **Last Updated:** February 04, 2026
+- **Last Updated:** February 05, 2026
 - **Description:** <div align="center"> </div>
 
 ---
@@ -78,33 +78,13 @@ This document provides detailed information about all repositories in the VIRUSG
 
 ---
 
-### 8. NetworkUsageMonitor
-**Repository:** [VIRUSGAMING64/NetworkUsageMonitor](https://github.com/VIRUSGAMING64/NetworkUsageMonitor)
-- **Language:** None
-- **Status:** Active
-- **Created:** November 15, 2025
-- **Last Updated:** November 15, 2025
-- **Description:** Una aplicacion web para saber cuanto internet a usado por separado cada programa en linux
-
----
-
-### 9. 7zbot
-**Repository:** [VIRUSGAMING64/7zbot](https://github.com/VIRUSGAMING64/7zbot)
-- **Language:** None
-- **Status:** Active
-- **Created:** November 07, 2025
-- **Last Updated:** November 07, 2025
-- **Description:** bot for work with zips
-
----
-
 ## 📊 Statistics Summary
 
-- **Total Repositories:** 9
+- **Total Repositories:** 7
 - **Total Stars:** 23
 - **Primary Languages:** C#, CSS, Python
 - **Most Starred:** Jamazon (10 stars)
 
 ---
 
-*Last updated: February 05, 2026*
+*Last updated: February 06, 2026*
