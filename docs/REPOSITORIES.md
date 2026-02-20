@@ -32,30 +32,30 @@ This document provides detailed information about all repositories in the VIRUSG
 - **Stars:** ⭐ 3
 - **Status:** Active
 - **Created:** November 02, 2025
-- **Last Updated:** February 18, 2026
+- **Last Updated:** February 19, 2026
 - **Description:** Is an new modular python-telegram-bot version of vshell
 
 ---
 
-### 4. VIRUSGAMING64
-**Repository:** [VIRUSGAMING64/VIRUSGAMING64](https://github.com/VIRUSGAMING64/VIRUSGAMING64)
-- **Language:** Python
-- **Stars:** ⭐ 1
-- **Status:** Active
-- **Created:** March 31, 2024
-- **Last Updated:** February 18, 2026
-- **Description:** <div align="center"> </div>
-
----
-
-### 5. virusgaming64.github.io
+### 4. virusgaming64.github.io
 **Repository:** [VIRUSGAMING64/virusgaming64.github.io](https://github.com/VIRUSGAMING64/virusgaming64.github.io)
 - **Language:** CSS
 - **Stars:** ⭐ 1
 - **Status:** Active
 - **Created:** August 17, 2025
-- **Last Updated:** February 17, 2026
+- **Last Updated:** February 19, 2026
 - **Description:** <div align="center"> **A dynamic GitHub portfolio showcasing projects, statistics, and coding journey**
+
+---
+
+### 5. VIRUSGAMING64
+**Repository:** [VIRUSGAMING64/VIRUSGAMING64](https://github.com/VIRUSGAMING64/VIRUSGAMING64)
+- **Language:** Python
+- **Stars:** ⭐ 1
+- **Status:** Active
+- **Created:** March 31, 2024
+- **Last Updated:** February 19, 2026
+- **Description:** <div align="center"> </div>
 
 ---
 
@@ -96,4 +96,4 @@ This document provides detailed information about all repositories in the VIRUSG
 
 ---
 
-*Last updated: February 19, 2026*
+*Last updated: February 20, 2026*
