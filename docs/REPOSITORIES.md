@@ -26,7 +26,17 @@ This document provides detailed information about all repositories in the VIRUSG
 
 ---
 
-### 3. MPTB_vshell
+### 3. Interpreter
+**Repository:** [VIRUSGAMING64/Interpreter](https://github.com/VIRUSGAMING64/Interpreter)
+- **Language:** Python
+- **Stars:** ⭐ 3
+- **Status:** Active
+- **Created:** February 08, 2026
+- **Last Updated:** March 06, 2026
+
+---
+
+### 4. MPTB_vshell
 **Repository:** [VIRUSGAMING64/MPTB_vshell](https://github.com/VIRUSGAMING64/MPTB_vshell)
 - **Language:** Python
 - **Stars:** ⭐ 3
@@ -37,34 +47,25 @@ This document provides detailed information about all repositories in the VIRUSG
 
 ---
 
-### 4. virusgaming64.github.io
+### 5. virusgaming64.github.io
 **Repository:** [VIRUSGAMING64/virusgaming64.github.io](https://github.com/VIRUSGAMING64/virusgaming64.github.io)
 - **Language:** CSS
 - **Stars:** ⭐ 1
 - **Status:** Active
 - **Created:** August 17, 2025
-- **Last Updated:** March 05, 2026
+- **Last Updated:** March 06, 2026
 - **Description:** <div align="center"> **A dynamic GitHub portfolio showcasing projects, statistics, and coding journey**
 
 ---
 
-### 5. VIRUSGAMING64
+### 6. VIRUSGAMING64
 **Repository:** [VIRUSGAMING64/VIRUSGAMING64](https://github.com/VIRUSGAMING64/VIRUSGAMING64)
 - **Language:** Python
 - **Stars:** ⭐ 1
 - **Status:** Active
 - **Created:** March 31, 2024
-- **Last Updated:** March 05, 2026
+- **Last Updated:** March 06, 2026
 - **Description:** <div align="center"> </div>
-
----
-
-### 6. Interpreter
-**Repository:** [VIRUSGAMING64/Interpreter](https://github.com/VIRUSGAMING64/Interpreter)
-- **Language:** Python
-- **Status:** Active
-- **Created:** February 08, 2026
-- **Last Updated:** February 12, 2026
 
 ---
 
@@ -90,10 +91,10 @@ This document provides detailed information about all repositories in the VIRUSG
 ## 📊 Statistics Summary
 
 - **Total Repositories:** 8
-- **Total Stars:** 22
+- **Total Stars:** 25
 - **Primary Languages:** C#, CSS, Python
 - **Most Starred:** Jamazon (9 stars)
 
 ---
 
-*Last updated: March 06, 2026*
+*Last updated: March 07, 2026*
