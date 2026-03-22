@@ -151,6 +151,7 @@ I'm a passionate developer and competitive programmer with expertise in multiple
 
 
 
+
 ## 🚀 My Projects
 
 ### Featured Repositories
@@ -162,7 +163,7 @@ I'm a passionate developer and competitive programmer with expertise in multiple
 **Python** | No description available
 
 #### 🔧 [Interpreter](https://github.com/VIRUSGAMING64/Interpreter) ⭐ 6
-**Python** | No description available
+**Python** | A simple interpreter
 
 #### 🐚 [MPTB_vshell](https://github.com/VIRUSGAMING64/MPTB_vshell) ⭐ 3
 **Python** | Is an new modular python-telegram-bot version of vshell
