@@ -154,6 +154,7 @@ I'm a passionate developer and competitive programmer with expertise in multiple
 
 
 
+
 ## 🚀 My Projects
 
 ### Featured Repositories
@@ -164,7 +165,7 @@ I'm a passionate developer and competitive programmer with expertise in multiple
 #### 🐚 [vshell](https://github.com/VIRUSGAMING64/vshell) ⭐ 8
 **Python** | No description available
 
-#### 🔧 [Interpreter](https://github.com/VIRUSGAMING64/Interpreter) ⭐ 6
+#### 🔧 [asm-pypas](https://github.com/VIRUSGAMING64/asm-pypas) ⭐ 7
 **Python** | A simple interpreter
 
 #### 🐚 [MPTB_vshell](https://github.com/VIRUSGAMING64/MPTB_vshell) ⭐ 3
