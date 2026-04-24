@@ -16,7 +16,7 @@ I'm a passionate developer and competitive programmer with expertise in multiple
 
 ### 🛠️ Technical Skills
 
-[![skills](https://skillicons.dev/icons?i=cpp,c,cs,py,js,go,java,flask,fastapi,bots,gmail,git,github,vscode,windows,linux,ubuntu&perline=6)](https://skillicons.dev)
+[![skills](https://skillicons.dev/icons?i=cpp,c,cs,py,js,go,java,flask,fastapi,bots,gmail,git,github,vscode,windows,linux,arch,ubuntu&perline=6)](https://skillicons.dev)
 
 ### 📊 Language Statistics
 
