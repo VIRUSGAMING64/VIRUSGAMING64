@@ -189,6 +189,7 @@ I'm a passionate developer and competitive programmer with expertise in multiple
 
 
 
+
 ## 🚀 My Projects
 
 ### Featured Repositories
@@ -203,7 +204,7 @@ I'm a passionate developer and competitive programmer with expertise in multiple
 **CSS** | A simple interpreter
 
 #### 🐚 [MPTB_vshell](https://github.com/VIRUSGAMING64/MPTB_vshell) ⭐ 3
-**Python** | Is an new modular python-telegram-bot version of vshell
+**CSS** | Is an new modular python-telegram-bot version of vshell
 
 #### 🌐 [virusgaming64.github.io](https://github.com/VIRUSGAMING64/virusgaming64.github.io) ⭐ 1
 **CSS** | No description available
