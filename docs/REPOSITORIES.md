@@ -15,7 +15,18 @@ This document provides detailed information about all repositories in the VIRUSG
 
 ---
 
-### 2. vshell
+### 2. asm-pypas
+**Repository:** [VIRUSGAMING64/asm-pypas](https://github.com/VIRUSGAMING64/asm-pypas)
+- **Language:** CSS
+- **Stars:** ⭐ 8
+- **Status:** Active
+- **Created:** February 08, 2026
+- **Last Updated:** June 09, 2026
+- **Description:** A simple interpreter
+
+---
+
+### 3. vshell
 **Repository:** [VIRUSGAMING64/vshell](https://github.com/VIRUSGAMING64/vshell)
 - **Language:** Python
 - **Stars:** ⭐ 8
@@ -23,17 +34,6 @@ This document provides detailed information about all repositories in the VIRUSG
 - **Created:** September 06, 2025
 - **Last Updated:** February 18, 2026
 - **Description:** Proyecto modular en Python que combina un núcleo de automatización (bot) y un componente web, con utilidades para descargas, compresión y gestión de usuarios. Este README documenta la estructura del proyecto, los módulos disponibles y cómo ponerlo en marcha. > ℹ️ Nota: Este documento se ha generado a partir de la estructura actual del repositorio. Si tu flujo real de trabajo difiere (por ejemplo, variables de entorno, comandos o servicios específicos), ajústalo en la sección Configuración.
-
----
-
-### 3. asm-pypas
-**Repository:** [VIRUSGAMING64/asm-pypas](https://github.com/VIRUSGAMING64/asm-pypas)
-- **Language:** CSS
-- **Stars:** ⭐ 7
-- **Status:** Active
-- **Created:** February 08, 2026
-- **Last Updated:** May 26, 2026
-- **Description:** A simple interpreter
 
 ---
 
@@ -54,7 +54,7 @@ This document provides detailed information about all repositories in the VIRUSG
 - **Stars:** ⭐ 1
 - **Status:** Active
 - **Created:** August 17, 2025
-- **Last Updated:** June 08, 2026
+- **Last Updated:** June 09, 2026
 - **Description:** <div align="center"> **A dynamic GitHub portfolio showcasing projects, statistics, and coding journey**
 
 ---
@@ -65,7 +65,7 @@ This document provides detailed information about all repositories in the VIRUSG
 - **Stars:** ⭐ 1
 - **Status:** Active
 - **Created:** March 31, 2024
-- **Last Updated:** June 08, 2026
+- **Last Updated:** June 09, 2026
 - **Description:** <div align="center"> </div>
 
 ---
@@ -92,10 +92,10 @@ This document provides detailed information about all repositories in the VIRUSG
 ## 📊 Statistics Summary
 
 - **Total Repositories:** 8
-- **Total Stars:** 30
+- **Total Stars:** 31
 - **Primary Languages:** C#, CSS, Python
 - **Most Starred:** Jamazon (10 stars)
 
 ---
 
-*Last updated: June 09, 2026*
+*Last updated: June 10, 2026*
