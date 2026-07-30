@@ -54,29 +54,29 @@ This document provides detailed information about all repositories in the VIRUSG
 - **Stars:** ⭐ 1
 - **Status:** Active
 - **Created:** August 17, 2025
-- **Last Updated:** July 28, 2026
+- **Last Updated:** July 29, 2026
 - **Description:** <div align="center"> **A dynamic GitHub portfolio showcasing projects, statistics, and coding journey**
 
 ---
 
-### 6. VIRUSGAMING64
-**Repository:** [VIRUSGAMING64/VIRUSGAMING64](https://github.com/VIRUSGAMING64/VIRUSGAMING64)
-- **Language:** Python
-- **Stars:** ⭐ 1
-- **Status:** Active
-- **Created:** March 31, 2024
-- **Last Updated:** July 28, 2026
-- **Description:** <div align="center"> </div>
-
----
-
-### 7. mgtb_vshell
+### 6. mgtb_vshell
 **Repository:** [VIRUSGAMING64/mgtb_vshell](https://github.com/VIRUSGAMING64/mgtb_vshell)
 - **Language:** Go
 - **Stars:** ⭐ 1
 - **Status:** Active
 - **Created:** July 22, 2026
-- **Last Updated:** July 27, 2026
+- **Last Updated:** July 29, 2026
+
+---
+
+### 7. VIRUSGAMING64
+**Repository:** [VIRUSGAMING64/VIRUSGAMING64](https://github.com/VIRUSGAMING64/VIRUSGAMING64)
+- **Language:** Python
+- **Stars:** ⭐ 1
+- **Status:** Active
+- **Created:** March 31, 2024
+- **Last Updated:** July 29, 2026
+- **Description:** <div align="center"> </div>
 
 ---
 
@@ -108,4 +108,4 @@ This document provides detailed information about all repositories in the VIRUSG
 
 ---
 
-*Last updated: July 29, 2026*
+*Last updated: July 30, 2026*
