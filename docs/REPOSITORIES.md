@@ -37,7 +37,17 @@ This document provides detailed information about all repositories in the VIRUSG
 
 ---
 
-### 4. MPTB_vshell
+### 4. mgtb_vshell
+**Repository:** [VIRUSGAMING64/mgtb_vshell](https://github.com/VIRUSGAMING64/mgtb_vshell)
+- **Language:** Go
+- **Stars:** ⭐ 3
+- **Status:** Active
+- **Created:** July 22, 2026
+- **Last Updated:** August 01, 2026
+
+---
+
+### 5. MPTB_vshell
 **Repository:** [VIRUSGAMING64/MPTB_vshell](https://github.com/VIRUSGAMING64/MPTB_vshell)
 - **Language:** CSS
 - **Stars:** ⭐ 3
@@ -48,35 +58,25 @@ This document provides detailed information about all repositories in the VIRUSG
 
 ---
 
-### 5. virusgaming64.github.io
+### 6. virusgaming64.github.io
 **Repository:** [VIRUSGAMING64/virusgaming64.github.io](https://github.com/VIRUSGAMING64/virusgaming64.github.io)
 - **Language:** CSS
 - **Stars:** ⭐ 1
 - **Status:** Active
 - **Created:** August 17, 2025
-- **Last Updated:** July 31, 2026
+- **Last Updated:** August 01, 2026
 - **Description:** <div align="center"> **A dynamic GitHub portfolio showcasing projects, statistics, and coding journey**
 
 ---
 
-### 6. VIRUSGAMING64
+### 7. VIRUSGAMING64
 **Repository:** [VIRUSGAMING64/VIRUSGAMING64](https://github.com/VIRUSGAMING64/VIRUSGAMING64)
 - **Language:** Python
 - **Stars:** ⭐ 1
 - **Status:** Active
 - **Created:** March 31, 2024
-- **Last Updated:** July 31, 2026
+- **Last Updated:** August 01, 2026
 - **Description:** <div align="center"> </div>
-
----
-
-### 7. mgtb_vshell
-**Repository:** [VIRUSGAMING64/mgtb_vshell](https://github.com/VIRUSGAMING64/mgtb_vshell)
-- **Language:** Go
-- **Stars:** ⭐ 1
-- **Status:** Active
-- **Created:** July 22, 2026
-- **Last Updated:** July 29, 2026
 
 ---
 
@@ -102,10 +102,10 @@ This document provides detailed information about all repositories in the VIRUSG
 ## 📊 Statistics Summary
 
 - **Total Repositories:** 9
-- **Total Stars:** 32
+- **Total Stars:** 34
 - **Primary Languages:** C#, CSS, Go, Python
 - **Most Starred:** Jamazon (10 stars)
 
 ---
 
-*Last updated: August 01, 2026*
+*Last updated: August 02, 2026*
