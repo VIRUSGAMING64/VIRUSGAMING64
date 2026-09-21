@@ -64,23 +64,34 @@ This document provides detailed information about all repositories in the VIRUSG
 - **Stars:** ⭐ 1
 - **Status:** Active
 - **Created:** August 17, 2025
-- **Last Updated:** September 20, 2026
+- **Last Updated:** September 21, 2026
 - **Description:** <div align="center"> **A dynamic GitHub portfolio showcasing projects, statistics, and coding journey**
 
 ---
 
-### 7. VIRUSGAMING64
+### 7. s-webcacher
+**Repository:** [VIRUSGAMING64/s-webcacher](https://github.com/VIRUSGAMING64/s-webcacher)
+- **Language:** Go
+- **Stars:** ⭐ 1
+- **Status:** Active
+- **Created:** September 20, 2026
+- **Last Updated:** September 21, 2026
+- **Description:** Proxy HTTP/HTTPS con cache offline y dashboard web. ```bash
+
+---
+
+### 8. VIRUSGAMING64
 **Repository:** [VIRUSGAMING64/VIRUSGAMING64](https://github.com/VIRUSGAMING64/VIRUSGAMING64)
 - **Language:** Python
 - **Stars:** ⭐ 1
 - **Status:** Active
 - **Created:** March 31, 2024
-- **Last Updated:** September 19, 2026
+- **Last Updated:** September 20, 2026
 - **Description:** <div align="center"> </div>
 
 ---
 
-### 8. cf-stats
+### 9. cf-stats
 **Repository:** [VIRUSGAMING64/cf-stats](https://github.com/VIRUSGAMING64/cf-stats)
 - **Language:** Python
 - **Status:** Active
@@ -90,7 +101,7 @@ This document provides detailed information about all repositories in the VIRUSG
 
 ---
 
-### 9. final2012c-
+### 10. final2012c-
 **Repository:** [VIRUSGAMING64/final2012c-](https://github.com/VIRUSGAMING64/final2012c-)
 - **Language:** C#
 - **Status:** Active
@@ -101,11 +112,11 @@ This document provides detailed information about all repositories in the VIRUSG
 
 ## 📊 Statistics Summary
 
-- **Total Repositories:** 9
-- **Total Stars:** 35
+- **Total Repositories:** 10
+- **Total Stars:** 36
 - **Primary Languages:** C#, CSS, Go, Python
 - **Most Starred:** Jamazon (10 stars)
 
 ---
 
-*Last updated: September 20, 2026*
+*Last updated: September 21, 2026*
