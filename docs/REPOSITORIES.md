@@ -47,7 +47,18 @@ This document provides detailed information about all repositories in the VIRUSG
 
 ---
 
-### 5. MPTB_vshell
+### 5. ogetproxy
+**Repository:** [VIRUSGAMING64/ogetproxy](https://github.com/VIRUSGAMING64/ogetproxy)
+- **Language:** Go
+- **Stars:** ⭐ 3
+- **Status:** Active
+- **Created:** September 26, 2026
+- **Last Updated:** September 26, 2026
+- **Description:** over gets proxy for sergio22 project (to mount in render )
+
+---
+
+### 6. MPTB_vshell
 **Repository:** [VIRUSGAMING64/MPTB_vshell](https://github.com/VIRUSGAMING64/MPTB_vshell)
 - **Language:** CSS
 - **Stars:** ⭐ 3
@@ -58,29 +69,29 @@ This document provides detailed information about all repositories in the VIRUSG
 
 ---
 
-### 6. virusgaming64.github.io
+### 7. virusgaming64.github.io
 **Repository:** [VIRUSGAMING64/virusgaming64.github.io](https://github.com/VIRUSGAMING64/virusgaming64.github.io)
 - **Language:** CSS
 - **Stars:** ⭐ 1
 - **Status:** Active
 - **Created:** August 17, 2025
-- **Last Updated:** September 26, 2026
+- **Last Updated:** September 27, 2026
 - **Description:** <div align="center"> **A dynamic GitHub portfolio showcasing projects, statistics, and coding journey**
 
 ---
 
-### 7. VIRUSGAMING64
+### 8. VIRUSGAMING64
 **Repository:** [VIRUSGAMING64/VIRUSGAMING64](https://github.com/VIRUSGAMING64/VIRUSGAMING64)
 - **Language:** Python
 - **Stars:** ⭐ 1
 - **Status:** Active
 - **Created:** March 31, 2024
-- **Last Updated:** September 25, 2026
+- **Last Updated:** September 26, 2026
 - **Description:** <div align="center"> </div>
 
 ---
 
-### 8. cf-stats
+### 9. cf-stats
 **Repository:** [VIRUSGAMING64/cf-stats](https://github.com/VIRUSGAMING64/cf-stats)
 - **Language:** Python
 - **Status:** Active
@@ -90,7 +101,7 @@ This document provides detailed information about all repositories in the VIRUSG
 
 ---
 
-### 9. final2012c-
+### 10. final2012c-
 **Repository:** [VIRUSGAMING64/final2012c-](https://github.com/VIRUSGAMING64/final2012c-)
 - **Language:** C#
 - **Status:** Active
@@ -101,11 +112,11 @@ This document provides detailed information about all repositories in the VIRUSG
 
 ## 📊 Statistics Summary
 
-- **Total Repositories:** 9
-- **Total Stars:** 35
+- **Total Repositories:** 10
+- **Total Stars:** 38
 - **Primary Languages:** C#, CSS, Go, Python
 - **Most Starred:** Jamazon (10 stars)
 
 ---
 
-*Last updated: September 26, 2026*
+*Last updated: September 27, 2026*
