@@ -37,24 +37,24 @@ This document provides detailed information about all repositories in the VIRUSG
 
 ---
 
-### 4. mgtb_vshell
+### 4. ogetproxy
+**Repository:** [VIRUSGAMING64/ogetproxy](https://github.com/VIRUSGAMING64/ogetproxy)
+- **Language:** Go
+- **Stars:** ⭐ 4
+- **Status:** Active
+- **Created:** September 26, 2026
+- **Last Updated:** September 28, 2026
+- **Description:** over gets proxy for sergio22 project (to mount in render )
+
+---
+
+### 5. mgtb_vshell
 **Repository:** [VIRUSGAMING64/mgtb_vshell](https://github.com/VIRUSGAMING64/mgtb_vshell)
 - **Language:** Go
 - **Stars:** ⭐ 4
 - **Status:** Active
 - **Created:** July 22, 2026
 - **Last Updated:** September 11, 2026
-
----
-
-### 5. ogetproxy
-**Repository:** [VIRUSGAMING64/ogetproxy](https://github.com/VIRUSGAMING64/ogetproxy)
-- **Language:** Go
-- **Stars:** ⭐ 3
-- **Status:** Active
-- **Created:** September 26, 2026
-- **Last Updated:** September 26, 2026
-- **Description:** over gets proxy for sergio22 project (to mount in render )
 
 ---
 
@@ -75,23 +75,34 @@ This document provides detailed information about all repositories in the VIRUSG
 - **Stars:** ⭐ 1
 - **Status:** Active
 - **Created:** August 17, 2025
-- **Last Updated:** September 28, 2026
+- **Last Updated:** September 29, 2026
 - **Description:** <div align="center"> **A dynamic GitHub portfolio showcasing projects, statistics, and coding journey**
 
 ---
 
-### 8. VIRUSGAMING64
+### 8. webcacher2
+**Repository:** [VIRUSGAMING64/webcacher2](https://github.com/VIRUSGAMING64/webcacher2)
+- **Language:** Go
+- **Stars:** ⭐ 1
+- **Status:** Active
+- **Created:** September 28, 2026
+- **Last Updated:** September 29, 2026
+- **Description:** Proxy HTTP/HTTPS con caché en disco, cola de peticiones offline y estadísticas. Reescritura en Go de WebCacher 1, manteniendo **compatibilidad con su carpeta `.cache`**:
+
+---
+
+### 9. VIRUSGAMING64
 **Repository:** [VIRUSGAMING64/VIRUSGAMING64](https://github.com/VIRUSGAMING64/VIRUSGAMING64)
 - **Language:** Python
 - **Stars:** ⭐ 1
 - **Status:** Active
 - **Created:** March 31, 2024
-- **Last Updated:** September 27, 2026
+- **Last Updated:** September 28, 2026
 - **Description:** <div align="center"> </div>
 
 ---
 
-### 9. cf-stats
+### 10. cf-stats
 **Repository:** [VIRUSGAMING64/cf-stats](https://github.com/VIRUSGAMING64/cf-stats)
 - **Language:** Python
 - **Status:** Active
@@ -101,7 +112,7 @@ This document provides detailed information about all repositories in the VIRUSG
 
 ---
 
-### 10. final2012c-
+### 11. final2012c-
 **Repository:** [VIRUSGAMING64/final2012c-](https://github.com/VIRUSGAMING64/final2012c-)
 - **Language:** C#
 - **Status:** Active
@@ -112,11 +123,11 @@ This document provides detailed information about all repositories in the VIRUSG
 
 ## 📊 Statistics Summary
 
-- **Total Repositories:** 10
-- **Total Stars:** 38
+- **Total Repositories:** 11
+- **Total Stars:** 40
 - **Primary Languages:** C#, CSS, Go, Python
 - **Most Starred:** Jamazon (10 stars)
 
 ---
 
-*Last updated: September 28, 2026*
+*Last updated: September 29, 2026*
