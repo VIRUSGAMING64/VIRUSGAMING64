@@ -58,7 +58,18 @@ This document provides detailed information about all repositories in the VIRUSG
 
 ---
 
-### 6. MPTB_vshell
+### 6. webcacher2
+**Repository:** [VIRUSGAMING64/webcacher2](https://github.com/VIRUSGAMING64/webcacher2)
+- **Language:** Go
+- **Stars:** ⭐ 3
+- **Status:** Active
+- **Created:** September 28, 2026
+- **Last Updated:** September 29, 2026
+- **Description:** Proxy HTTP/HTTPS con caché en disco, cola de peticiones offline y estadísticas. Reescritura en Go de WebCacher 1, manteniendo **compatibilidad con su carpeta `.cache`**:
+
+---
+
+### 7. MPTB_vshell
 **Repository:** [VIRUSGAMING64/MPTB_vshell](https://github.com/VIRUSGAMING64/MPTB_vshell)
 - **Language:** CSS
 - **Stars:** ⭐ 3
@@ -69,25 +80,14 @@ This document provides detailed information about all repositories in the VIRUSG
 
 ---
 
-### 7. virusgaming64.github.io
+### 8. virusgaming64.github.io
 **Repository:** [VIRUSGAMING64/virusgaming64.github.io](https://github.com/VIRUSGAMING64/virusgaming64.github.io)
 - **Language:** CSS
 - **Stars:** ⭐ 1
 - **Status:** Active
 - **Created:** August 17, 2025
-- **Last Updated:** September 29, 2026
+- **Last Updated:** September 30, 2026
 - **Description:** <div align="center"> **A dynamic GitHub portfolio showcasing projects, statistics, and coding journey**
-
----
-
-### 8. webcacher2
-**Repository:** [VIRUSGAMING64/webcacher2](https://github.com/VIRUSGAMING64/webcacher2)
-- **Language:** Go
-- **Stars:** ⭐ 1
-- **Status:** Active
-- **Created:** September 28, 2026
-- **Last Updated:** September 29, 2026
-- **Description:** Proxy HTTP/HTTPS con caché en disco, cola de peticiones offline y estadísticas. Reescritura en Go de WebCacher 1, manteniendo **compatibilidad con su carpeta `.cache`**:
 
 ---
 
@@ -97,7 +97,7 @@ This document provides detailed information about all repositories in the VIRUSG
 - **Stars:** ⭐ 1
 - **Status:** Active
 - **Created:** March 31, 2024
-- **Last Updated:** September 28, 2026
+- **Last Updated:** September 29, 2026
 - **Description:** <div align="center"> </div>
 
 ---
@@ -124,10 +124,10 @@ This document provides detailed information about all repositories in the VIRUSG
 ## 📊 Statistics Summary
 
 - **Total Repositories:** 11
-- **Total Stars:** 40
+- **Total Stars:** 42
 - **Primary Languages:** C#, CSS, Go, Python
 - **Most Starred:** Jamazon (10 stars)
 
 ---
 
-*Last updated: September 29, 2026*
+*Last updated: September 30, 2026*
