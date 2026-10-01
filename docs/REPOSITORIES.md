@@ -37,7 +37,18 @@ This document provides detailed information about all repositories in the VIRUSG
 
 ---
 
-### 4. ogetproxy
+### 4. webcacher2
+**Repository:** [VIRUSGAMING64/webcacher2](https://github.com/VIRUSGAMING64/webcacher2)
+- **Language:** Go
+- **Stars:** ⭐ 4
+- **Status:** Active
+- **Created:** September 28, 2026
+- **Last Updated:** September 30, 2026
+- **Description:** Proxy HTTP/HTTPS con caché en disco, cola de peticiones offline y estadísticas. Reescritura en Go de WebCacher 1, manteniendo **compatibilidad con su carpeta `.cache`**:
+
+---
+
+### 5. ogetproxy
 **Repository:** [VIRUSGAMING64/ogetproxy](https://github.com/VIRUSGAMING64/ogetproxy)
 - **Language:** Go
 - **Stars:** ⭐ 4
@@ -48,24 +59,13 @@ This document provides detailed information about all repositories in the VIRUSG
 
 ---
 
-### 5. mgtb_vshell
+### 6. mgtb_vshell
 **Repository:** [VIRUSGAMING64/mgtb_vshell](https://github.com/VIRUSGAMING64/mgtb_vshell)
 - **Language:** Go
 - **Stars:** ⭐ 4
 - **Status:** Active
 - **Created:** July 22, 2026
 - **Last Updated:** September 11, 2026
-
----
-
-### 6. webcacher2
-**Repository:** [VIRUSGAMING64/webcacher2](https://github.com/VIRUSGAMING64/webcacher2)
-- **Language:** Go
-- **Stars:** ⭐ 3
-- **Status:** Active
-- **Created:** September 28, 2026
-- **Last Updated:** September 29, 2026
-- **Description:** Proxy HTTP/HTTPS con caché en disco, cola de peticiones offline y estadísticas. Reescritura en Go de WebCacher 1, manteniendo **compatibilidad con su carpeta `.cache`**:
 
 ---
 
@@ -86,7 +86,7 @@ This document provides detailed information about all repositories in the VIRUSG
 - **Stars:** ⭐ 1
 - **Status:** Active
 - **Created:** August 17, 2025
-- **Last Updated:** September 30, 2026
+- **Last Updated:** October 01, 2026
 - **Description:** <div align="center"> **A dynamic GitHub portfolio showcasing projects, statistics, and coding journey**
 
 ---
@@ -97,7 +97,7 @@ This document provides detailed information about all repositories in the VIRUSG
 - **Stars:** ⭐ 1
 - **Status:** Active
 - **Created:** March 31, 2024
-- **Last Updated:** September 29, 2026
+- **Last Updated:** September 30, 2026
 - **Description:** <div align="center"> </div>
 
 ---
@@ -124,10 +124,10 @@ This document provides detailed information about all repositories in the VIRUSG
 ## 📊 Statistics Summary
 
 - **Total Repositories:** 11
-- **Total Stars:** 42
+- **Total Stars:** 43
 - **Primary Languages:** C#, CSS, Go, Python
 - **Most Starred:** Jamazon (10 stars)
 
 ---
 
-*Last updated: September 30, 2026*
+*Last updated: October 01, 2026*
