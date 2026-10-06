@@ -350,6 +350,7 @@ I'm a passionate developer and competitive programmer with expertise in multiple
 
 
 
+
 ## 🚀 My Projects
 
 ### Featured Repositories
@@ -378,10 +379,10 @@ I'm a passionate developer and competitive programmer with expertise in multiple
 #### 🌐 [virusgaming64.github.io](https://github.com/VIRUSGAMING64/virusgaming64.github.io) ⭐ 1
 **CSS** | No description available
 
-#### 🔧 [VIRUSGAMING64](https://github.com/VIRUSGAMING64/VIRUSGAMING64) ⭐ 1
+#### 🔧 [pydwarfs](https://github.com/VIRUSGAMING64/pydwarfs) ⭐ 1
 **Python** | No description available
 
-#### 📊 [cf-stats](https://github.com/VIRUSGAMING64/cf-stats)
+#### 🔧 [VIRUSGAMING64](https://github.com/VIRUSGAMING64/VIRUSGAMING64) ⭐ 1
 **Python** | No description available
 
 ---

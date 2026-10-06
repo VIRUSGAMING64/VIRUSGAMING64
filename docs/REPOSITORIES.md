@@ -43,7 +43,7 @@ This document provides detailed information about all repositories in the VIRUSG
 - **Stars:** ⭐ 4
 - **Status:** Active
 - **Created:** September 28, 2026
-- **Last Updated:** September 30, 2026
+- **Last Updated:** October 05, 2026
 - **Description:** Proxy HTTP/HTTPS con caché en disco, cola de peticiones offline y estadísticas. Reescritura en Go de WebCacher 1, manteniendo **compatibilidad con su carpeta `.cache`**:
 
 ---
@@ -86,23 +86,34 @@ This document provides detailed information about all repositories in the VIRUSG
 - **Stars:** ⭐ 1
 - **Status:** Active
 - **Created:** August 17, 2025
-- **Last Updated:** October 05, 2026
+- **Last Updated:** October 06, 2026
 - **Description:** <div align="center"> **A dynamic GitHub portfolio showcasing projects, statistics, and coding journey**
 
 ---
 
-### 9. VIRUSGAMING64
+### 9. pydwarfs
+**Repository:** [VIRUSGAMING64/pydwarfs](https://github.com/VIRUSGAMING64/pydwarfs)
+- **Language:** Python
+- **Stars:** ⭐ 1
+- **Status:** Active
+- **Created:** October 05, 2026
+- **Last Updated:** October 05, 2026
+- **Description:** Motor de simulación tipo *Dwarf Fortress* escrito en Python donde **cada criatura está controlada por sus propios instintos**, escritos en un lenguaje propio que el proyecto
+
+---
+
+### 10. VIRUSGAMING64
 **Repository:** [VIRUSGAMING64/VIRUSGAMING64](https://github.com/VIRUSGAMING64/VIRUSGAMING64)
 - **Language:** Python
 - **Stars:** ⭐ 1
 - **Status:** Active
 - **Created:** March 31, 2024
-- **Last Updated:** October 04, 2026
+- **Last Updated:** October 05, 2026
 - **Description:** <div align="center"> </div>
 
 ---
 
-### 10. cf-stats
+### 11. cf-stats
 **Repository:** [VIRUSGAMING64/cf-stats](https://github.com/VIRUSGAMING64/cf-stats)
 - **Language:** Python
 - **Status:** Active
@@ -112,7 +123,7 @@ This document provides detailed information about all repositories in the VIRUSG
 
 ---
 
-### 11. final2012c-
+### 12. final2012c-
 **Repository:** [VIRUSGAMING64/final2012c-](https://github.com/VIRUSGAMING64/final2012c-)
 - **Language:** C#
 - **Status:** Active
@@ -123,11 +134,11 @@ This document provides detailed information about all repositories in the VIRUSG
 
 ## 📊 Statistics Summary
 
-- **Total Repositories:** 11
-- **Total Stars:** 43
+- **Total Repositories:** 12
+- **Total Stars:** 44
 - **Primary Languages:** C#, CSS, Go, Python
 - **Most Starred:** Jamazon (10 stars)
 
 ---
 
-*Last updated: October 05, 2026*
+*Last updated: October 06, 2026*
