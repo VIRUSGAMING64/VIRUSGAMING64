@@ -80,25 +80,25 @@ This document provides detailed information about all repositories in the VIRUSG
 
 ---
 
-### 8. virusgaming64.github.io
+### 8. pydwarfs
+**Repository:** [VIRUSGAMING64/pydwarfs](https://github.com/VIRUSGAMING64/pydwarfs)
+- **Language:** Python
+- **Stars:** ⭐ 2
+- **Status:** Active
+- **Created:** October 05, 2026
+- **Last Updated:** October 06, 2026
+- **Description:** Motor de simulación tipo *Dwarf Fortress* escrito en Python donde **cada criatura está controlada por sus propios instintos**, escritos en un lenguaje propio que el proyecto
+
+---
+
+### 9. virusgaming64.github.io
 **Repository:** [VIRUSGAMING64/virusgaming64.github.io](https://github.com/VIRUSGAMING64/virusgaming64.github.io)
 - **Language:** CSS
 - **Stars:** ⭐ 1
 - **Status:** Active
 - **Created:** August 17, 2025
-- **Last Updated:** October 06, 2026
+- **Last Updated:** October 07, 2026
 - **Description:** <div align="center"> **A dynamic GitHub portfolio showcasing projects, statistics, and coding journey**
-
----
-
-### 9. pydwarfs
-**Repository:** [VIRUSGAMING64/pydwarfs](https://github.com/VIRUSGAMING64/pydwarfs)
-- **Language:** Python
-- **Stars:** ⭐ 1
-- **Status:** Active
-- **Created:** October 05, 2026
-- **Last Updated:** October 05, 2026
-- **Description:** Motor de simulación tipo *Dwarf Fortress* escrito en Python donde **cada criatura está controlada por sus propios instintos**, escritos en un lenguaje propio que el proyecto
 
 ---
 
@@ -108,7 +108,7 @@ This document provides detailed information about all repositories in the VIRUSG
 - **Stars:** ⭐ 1
 - **Status:** Active
 - **Created:** March 31, 2024
-- **Last Updated:** October 05, 2026
+- **Last Updated:** October 06, 2026
 - **Description:** <div align="center"> </div>
 
 ---
@@ -135,10 +135,10 @@ This document provides detailed information about all repositories in the VIRUSG
 ## 📊 Statistics Summary
 
 - **Total Repositories:** 12
-- **Total Stars:** 44
+- **Total Stars:** 45
 - **Primary Languages:** C#, CSS, Go, Python
 - **Most Starred:** Jamazon (10 stars)
 
 ---
 
-*Last updated: October 06, 2026*
+*Last updated: October 07, 2026*
