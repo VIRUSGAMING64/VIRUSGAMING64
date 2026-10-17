@@ -7,15 +7,26 @@ This document provides detailed information about all repositories in the VIRUSG
 ### 1. Jamazon
 **Repository:** [VIRUSGAMING64/Jamazon](https://github.com/VIRUSGAMING64/Jamazon)
 - **Language:** Python
-- **Stars:** ⭐ 10
+- **Stars:** ⭐ 11
 - **Status:** Active
 - **Created:** October 03, 2025
-- **Last Updated:** June 22, 2026
+- **Last Updated:** October 16, 2026
 - **Description:** first programing project UH 
 
 ---
 
-### 2. asm-pypas
+### 2. vshell
+**Repository:** [VIRUSGAMING64/vshell](https://github.com/VIRUSGAMING64/vshell)
+- **Language:** Python
+- **Stars:** ⭐ 9
+- **Status:** Active
+- **Created:** September 06, 2025
+- **Last Updated:** October 16, 2026
+- **Description:** Proyecto modular en Python que combina un núcleo de automatización (bot) y un componente web, con utilidades para descargas, compresión y gestión de usuarios. Este README documenta la estructura del proyecto, los módulos disponibles y cómo ponerlo en marcha. > ℹ️ Nota: Este documento se ha generado a partir de la estructura actual del repositorio. Si tu flujo real de trabajo difiere (por ejemplo, variables de entorno, comandos o servicios específicos), ajústalo en la sección Configuración.
+
+---
+
+### 3. asm-pypas
 **Repository:** [VIRUSGAMING64/asm-pypas](https://github.com/VIRUSGAMING64/asm-pypas)
 - **Language:** CSS
 - **Stars:** ⭐ 8
@@ -26,68 +37,57 @@ This document provides detailed information about all repositories in the VIRUSG
 
 ---
 
-### 3. vshell
-**Repository:** [VIRUSGAMING64/vshell](https://github.com/VIRUSGAMING64/vshell)
-- **Language:** Python
-- **Stars:** ⭐ 8
-- **Status:** Active
-- **Created:** September 06, 2025
-- **Last Updated:** February 18, 2026
-- **Description:** Proyecto modular en Python que combina un núcleo de automatización (bot) y un componente web, con utilidades para descargas, compresión y gestión de usuarios. Este README documenta la estructura del proyecto, los módulos disponibles y cómo ponerlo en marcha. > ℹ️ Nota: Este documento se ha generado a partir de la estructura actual del repositorio. Si tu flujo real de trabajo difiere (por ejemplo, variables de entorno, comandos o servicios específicos), ajústalo en la sección Configuración.
-
----
-
-### 4. webcacher2
-**Repository:** [VIRUSGAMING64/webcacher2](https://github.com/VIRUSGAMING64/webcacher2)
+### 4. mgtb_vshell
+**Repository:** [VIRUSGAMING64/mgtb_vshell](https://github.com/VIRUSGAMING64/mgtb_vshell)
 - **Language:** Go
-- **Stars:** ⭐ 4
+- **Stars:** ⭐ 5
 - **Status:** Active
-- **Created:** September 28, 2026
-- **Last Updated:** October 05, 2026
-- **Description:** Proxy HTTP/HTTPS con caché en disco, cola de peticiones offline y estadísticas. Reescritura en Go de WebCacher 1, manteniendo **compatibilidad con su carpeta `.cache`**:
+- **Created:** July 22, 2026
+- **Last Updated:** October 16, 2026
 
 ---
 
 ### 5. ogetproxy
 **Repository:** [VIRUSGAMING64/ogetproxy](https://github.com/VIRUSGAMING64/ogetproxy)
 - **Language:** Go
-- **Stars:** ⭐ 4
+- **Stars:** ⭐ 5
 - **Status:** Active
 - **Created:** September 26, 2026
-- **Last Updated:** September 28, 2026
+- **Last Updated:** October 16, 2026
 - **Description:** over gets proxy for sergio22 project (to mount in render )
 
 ---
 
-### 6. mgtb_vshell
-**Repository:** [VIRUSGAMING64/mgtb_vshell](https://github.com/VIRUSGAMING64/mgtb_vshell)
+### 6. webcacher2
+**Repository:** [VIRUSGAMING64/webcacher2](https://github.com/VIRUSGAMING64/webcacher2)
 - **Language:** Go
-- **Stars:** ⭐ 4
+- **Stars:** ⭐ 5
 - **Status:** Active
-- **Created:** July 22, 2026
-- **Last Updated:** September 11, 2026
+- **Created:** September 28, 2026
+- **Last Updated:** October 16, 2026
+- **Description:** Proxy HTTP/HTTPS con caché en disco, cola de peticiones offline y estadísticas. Reescritura en Go de WebCacher 1, manteniendo **compatibilidad con su carpeta `.cache`**:
 
 ---
 
-### 7. pydwarfs
-**Repository:** [VIRUSGAMING64/pydwarfs](https://github.com/VIRUSGAMING64/pydwarfs)
-- **Language:** Python
-- **Stars:** ⭐ 3
-- **Status:** Active
-- **Created:** October 05, 2026
-- **Last Updated:** October 13, 2026
-- **Description:** Motor de simulación inspirado en *Dwarf Fortress* escrito en Python. El proyecto cuenta con un intérprete de lenguaje de instintos propio, un cargador de datos del mundo y un servidor de visualización basado en WebSockets. | Módulo | Descripción |
-
----
-
-### 8. MPTB_vshell
+### 7. MPTB_vshell
 **Repository:** [VIRUSGAMING64/MPTB_vshell](https://github.com/VIRUSGAMING64/MPTB_vshell)
 - **Language:** CSS
-- **Stars:** ⭐ 3
+- **Stars:** ⭐ 4
 - **Status:** Active
 - **Created:** November 02, 2025
-- **Last Updated:** July 10, 2026
+- **Last Updated:** October 16, 2026
 - **Description:** Is an new modular python-telegram-bot version of vshell
+
+---
+
+### 8. pydwarfs
+**Repository:** [VIRUSGAMING64/pydwarfs](https://github.com/VIRUSGAMING64/pydwarfs)
+- **Language:** Python
+- **Stars:** ⭐ 4
+- **Status:** Active
+- **Created:** October 05, 2026
+- **Last Updated:** October 16, 2026
+- **Description:** Motor de simulación inspirado en *Dwarf Fortress* escrito en Python. El proyecto cuenta con un intérprete de lenguaje de instintos propio, un cargador de datos del mundo y un servidor de visualización basado en WebSockets. | Módulo | Descripción |
 
 ---
 
@@ -97,7 +97,7 @@ This document provides detailed information about all repositories in the VIRUSG
 - **Stars:** ⭐ 1
 - **Status:** Active
 - **Created:** August 17, 2025
-- **Last Updated:** October 16, 2026
+- **Last Updated:** October 17, 2026
 - **Description:** <div align="center"> **A dynamic GitHub portfolio showcasing projects, statistics, and coding journey**
 
 ---
@@ -108,7 +108,7 @@ This document provides detailed information about all repositories in the VIRUSG
 - **Stars:** ⭐ 1
 - **Status:** Active
 - **Created:** March 31, 2024
-- **Last Updated:** October 15, 2026
+- **Last Updated:** October 16, 2026
 - **Description:** <div align="center"> </div>
 
 ---
@@ -135,10 +135,10 @@ This document provides detailed information about all repositories in the VIRUSG
 ## 📊 Statistics Summary
 
 - **Total Repositories:** 12
-- **Total Stars:** 46
+- **Total Stars:** 53
 - **Primary Languages:** C#, CSS, Go, Python
-- **Most Starred:** Jamazon (10 stars)
+- **Most Starred:** Jamazon (11 stars)
 
 ---
 
-*Last updated: October 16, 2026*
+*Last updated: October 17, 2026*

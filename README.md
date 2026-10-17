@@ -361,33 +361,34 @@ I'm a passionate developer and competitive programmer with expertise in multiple
 
 
 
+
 ## 🚀 My Projects
 
 ### Featured Repositories
 
-#### 🔧 [Jamazon](https://github.com/VIRUSGAMING64/Jamazon) ⭐ 10
+#### 🔧 [Jamazon](https://github.com/VIRUSGAMING64/Jamazon) ⭐ 11
 **Python** | first programing project UH 
+
+#### 🐚 [vshell](https://github.com/VIRUSGAMING64/vshell) ⭐ 9
+**Python** | No description available
 
 #### 🔧 [asm-pypas](https://github.com/VIRUSGAMING64/asm-pypas) ⭐ 8
 **CSS** | A simple interpreter
 
-#### 🐚 [vshell](https://github.com/VIRUSGAMING64/vshell) ⭐ 8
-**Python** | No description available
-
-#### 🌐 [webcacher2](https://github.com/VIRUSGAMING64/webcacher2) ⭐ 4
+#### 🐚 [mgtb_vshell](https://github.com/VIRUSGAMING64/mgtb_vshell) ⭐ 5
 **Go** | No description available
 
-#### 🔧 [ogetproxy](https://github.com/VIRUSGAMING64/ogetproxy) ⭐ 4
+#### 🔧 [ogetproxy](https://github.com/VIRUSGAMING64/ogetproxy) ⭐ 5
 **Go** | over gets proxy for sergio22 project (to mount in render )
 
-#### 🐚 [mgtb_vshell](https://github.com/VIRUSGAMING64/mgtb_vshell) ⭐ 4
+#### 🌐 [webcacher2](https://github.com/VIRUSGAMING64/webcacher2) ⭐ 5
 **Go** | No description available
 
-#### 🔧 [pydwarfs](https://github.com/VIRUSGAMING64/pydwarfs) ⭐ 3
-**Python** | No description available
-
-#### 🐚 [MPTB_vshell](https://github.com/VIRUSGAMING64/MPTB_vshell) ⭐ 3
+#### 🐚 [MPTB_vshell](https://github.com/VIRUSGAMING64/MPTB_vshell) ⭐ 4
 **CSS** | Is an new modular python-telegram-bot version of vshell
+
+#### 🔧 [pydwarfs](https://github.com/VIRUSGAMING64/pydwarfs) ⭐ 4
+**Python** | No description available
 
 #### 🌐 [virusgaming64.github.io](https://github.com/VIRUSGAMING64/virusgaming64.github.io) ⭐ 1
 **CSS** | No description available
