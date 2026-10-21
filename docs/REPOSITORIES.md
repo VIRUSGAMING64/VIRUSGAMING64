@@ -69,7 +69,18 @@ This document provides detailed information about all repositories in the VIRUSG
 
 ---
 
-### 7. MPTB_vshell
+### 7. pydwarfs
+**Repository:** [VIRUSGAMING64/pydwarfs](https://github.com/VIRUSGAMING64/pydwarfs)
+- **Language:** Python
+- **Stars:** ⭐ 4
+- **Status:** Active
+- **Created:** October 05, 2026
+- **Last Updated:** October 20, 2026
+- **Description:** Motor de simulación inspirado en *Dwarf Fortress* escrito en Python. El proyecto cuenta con un intérprete de lenguaje de instintos propio, un cargador de datos del mundo y un servidor de visualización basado en WebSockets. | Módulo | Descripción |
+
+---
+
+### 8. MPTB_vshell
 **Repository:** [VIRUSGAMING64/MPTB_vshell](https://github.com/VIRUSGAMING64/MPTB_vshell)
 - **Language:** CSS
 - **Stars:** ⭐ 4
@@ -80,24 +91,13 @@ This document provides detailed information about all repositories in the VIRUSG
 
 ---
 
-### 8. pydwarfs
-**Repository:** [VIRUSGAMING64/pydwarfs](https://github.com/VIRUSGAMING64/pydwarfs)
-- **Language:** Python
-- **Stars:** ⭐ 4
-- **Status:** Active
-- **Created:** October 05, 2026
-- **Last Updated:** October 16, 2026
-- **Description:** Motor de simulación inspirado en *Dwarf Fortress* escrito en Python. El proyecto cuenta con un intérprete de lenguaje de instintos propio, un cargador de datos del mundo y un servidor de visualización basado en WebSockets. | Módulo | Descripción |
-
----
-
 ### 9. virusgaming64.github.io
 **Repository:** [VIRUSGAMING64/virusgaming64.github.io](https://github.com/VIRUSGAMING64/virusgaming64.github.io)
 - **Language:** CSS
 - **Stars:** ⭐ 1
 - **Status:** Active
 - **Created:** August 17, 2025
-- **Last Updated:** October 20, 2026
+- **Last Updated:** October 21, 2026
 - **Description:** <div align="center"> **A dynamic GitHub portfolio showcasing projects, statistics, and coding journey**
 
 ---
@@ -108,7 +108,7 @@ This document provides detailed information about all repositories in the VIRUSG
 - **Stars:** ⭐ 1
 - **Status:** Active
 - **Created:** March 31, 2024
-- **Last Updated:** October 19, 2026
+- **Last Updated:** October 20, 2026
 - **Description:** <div align="center"> </div>
 
 ---
@@ -141,4 +141,4 @@ This document provides detailed information about all repositories in the VIRUSG
 
 ---
 
-*Last updated: October 20, 2026*
+*Last updated: October 21, 2026*
