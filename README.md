@@ -384,6 +384,7 @@ I'm a passionate developer and competitive programmer with expertise in multiple
 
 
 
+
 ## 🚀 My Projects
 
 ### Featured Repositories
@@ -413,7 +414,7 @@ I'm a passionate developer and competitive programmer with expertise in multiple
 **CSS** | Is an new modular python-telegram-bot version of vshell
 
 #### 🔧 [S-MIPS-2026-2027](https://github.com/VIRUSGAMING64/S-MIPS-2026-2027) ⭐ 2
-No description available
+**Python** | No description available
 
 #### 🌐 [virusgaming64.github.io](https://github.com/VIRUSGAMING64/virusgaming64.github.io) ⭐ 1
 **CSS** | No description available
