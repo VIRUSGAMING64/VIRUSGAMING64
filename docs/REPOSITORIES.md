@@ -91,7 +91,18 @@ This document provides detailed information about all repositories in the VIRUSG
 
 ---
 
-### 9. virusgaming64.github.io
+### 9. VIRUSGAMING64
+**Repository:** [VIRUSGAMING64/VIRUSGAMING64](https://github.com/VIRUSGAMING64/VIRUSGAMING64)
+- **Language:** Python
+- **Stars:** ⭐ 1
+- **Status:** Active
+- **Created:** March 31, 2024
+- **Last Updated:** November 12, 2026
+- **Description:** <div align="center"> </div>
+
+---
+
+### 10. virusgaming64.github.io
 **Repository:** [VIRUSGAMING64/virusgaming64.github.io](https://github.com/VIRUSGAMING64/virusgaming64.github.io)
 - **Language:** CSS
 - **Stars:** ⭐ 1
@@ -99,17 +110,6 @@ This document provides detailed information about all repositories in the VIRUSG
 - **Created:** August 17, 2025
 - **Last Updated:** November 12, 2026
 - **Description:** <div align="center"> **A dynamic GitHub portfolio showcasing projects, statistics, and coding journey**
-
----
-
-### 10. VIRUSGAMING64
-**Repository:** [VIRUSGAMING64/VIRUSGAMING64](https://github.com/VIRUSGAMING64/VIRUSGAMING64)
-- **Language:** Python
-- **Stars:** ⭐ 1
-- **Status:** Active
-- **Created:** March 31, 2024
-- **Last Updated:** November 11, 2026
-- **Description:** <div align="center"> </div>
 
 ---
 
@@ -141,4 +141,4 @@ This document provides detailed information about all repositories in the VIRUSG
 
 ---
 
-*Last updated: November 12, 2026*
+*Last updated: November 13, 2026*
